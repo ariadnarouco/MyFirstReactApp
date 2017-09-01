@@ -1,0 +1,13 @@
+.my-class{
+  background-color: #1D3557;
+  color: white;
+}
+
+.my-box{
+  border: 1px solid black;
+  display: inline-block;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  height: 200px;
+}
